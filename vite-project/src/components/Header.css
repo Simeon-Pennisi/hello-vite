@@ -14,7 +14,7 @@
   height: 42px;
 }
 .header__title {
-  font-family: "Yellowtail";
+  font-family: Yellowtail, cursive;
   font-size: 40px;
   margin-left: 12px;
 }
